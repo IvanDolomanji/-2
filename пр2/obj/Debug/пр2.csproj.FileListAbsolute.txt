@@ -1,0 +1,7 @@
+D:\IT\informatica vs\пр2\bin\Debug\пр2.exe.config
+D:\IT\informatica vs\пр2\bin\Debug\пр2.exe
+D:\IT\informatica vs\пр2\bin\Debug\пр2.pdb
+D:\IT\informatica vs\пр2\obj\Debug\пр2.csproj.AssemblyReference.cache
+D:\IT\informatica vs\пр2\obj\Debug\пр2.csproj.CoreCompileInputs.cache
+D:\IT\informatica vs\пр2\obj\Debug\пр2.exe
+D:\IT\informatica vs\пр2\obj\Debug\пр2.pdb
